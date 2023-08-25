@@ -13,7 +13,7 @@ I'm a software engineer passionate about open-source and always eager to learn a
 ### 🌱 Projects
 
 - **Trade Tariff**: An open-source platform crafted with love to help traders navigate the complex world of UK trade <https://github.com/trade-tariff/>
-- **Custom Neovim Config**: Checkout my hand-crafted neovim configuration (amongst other things)
+- **Custom Neovim Config**: Checkout my hand-crafted [neovim configuration](https://github.com/willfish/vimrc)
 
 Languages and Tools:
 
