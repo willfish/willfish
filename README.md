@@ -23,5 +23,5 @@ Languages and Tools:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,javascript,elixir,shell&theme=dracula)](https://github.com/willfish)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,javascript,elixir,ruby,shell&theme=dracula)](https://github.com/willfish)
 
