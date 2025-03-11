@@ -23,6 +23,5 @@ Languages and Tools:
   </a>
 </p>
 
-![William Fish's GitHub stats](https://github-readme-stats.vercel.app/api?username=willfish&hide_rank=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,javascript,elixir,shell)](https://github.com/willfish)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,javascript,elixir,shell&theme=dracula)](https://github.com/willfish)
 
