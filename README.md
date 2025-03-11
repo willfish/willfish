@@ -23,6 +23,6 @@ Languages and Tools:
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript&langs_count=7&layout=compact&theme=dracula)
-
 ![William Fish's GitHub stats](https://github-readme-stats.vercel.app/api?username=willfish&hide_rank=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
+
