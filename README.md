@@ -5,8 +5,8 @@
 I'm a software engineer passionate about open-source and always eager to learn and work on new technologies. I believe in the power of community and love contributing to various open-source projects including UK government and neovim-related projects.
 
 - 🔭 I’m currently working with HMRC on the [Online Trade Tariff](https://github.com/trade-tariff/)
-- 🐋 I’m currently learning *[go](https://gobyexample.com/)!*
-- 💬 Ask me about Linux, Neovim, or programming with Ruby, Elixir, Python  or Go
+- 🐋 I’m currently learning *[odin](https://odin-lang.org/)!*
+- 💬 Ask me about Linux, Neovim, or programming with Ruby, Elixir, Python or Go
 - 📫 How to reach me: <william.michael.fish@gmail.com>
 - ⚡ Fun fact: Postgres gets its name from "POST-Ingres" as it was a successor to the Ingres database developed in the 1970s. Despite its age, Postgres has remained one of the most innovative and robust open-source databases around.
 
