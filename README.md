@@ -6,7 +6,7 @@ I'm a software engineer passionate about open-source and always eager to learn a
 
 - 🔭 I’m currently working with HMRC on the [Online Trade Tariff](https://github.com/trade-tariff/)
 - 🐋 I’m currently learning *[odin](https://odin-lang.org/)!*
-- 💬 Ask me about Linux, Neovim, or programming with Ruby, Elixir, Python or Go
+- 💬 Ask me about Linux, Neovim, or programming with Ruby, Python, Elixir or Go
 - 📫 How to reach me: <william.michael.fish@gmail.com>
 - ⚡ Fun fact: Postgres gets its name from "POST-Ingres" as it was a successor to the Ingres database developed in the 1970s. Despite its age, Postgres has remained one of the most innovative and robust open-source databases around.
 
