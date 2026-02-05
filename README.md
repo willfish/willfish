@@ -1,25 +1,28 @@
 ### Hi there 👋 I'm William Fish
 
-### 🚀 About Me
+### About Me
 
-I'm a software engineer passionate about open-source and always eager to learn and work on new technologies. I believe in the power of community and love contributing to various open-source projects including UK government and neovim-related projects.
+Software engineer at HMRC building AI-powered search for the [Online Trade Tariff](https://github.com/trade-tariff/). NixOS user, Neovim enthusiast, and open-source contributor.
 
-- 🔭 I’m currently working with HMRC on the [Online Trade Tariff](https://github.com/trade-tariff/)
-- 💬 Ask me about Linux, Neovim, or programming with Ruby, Python, Elixir or Go
-- ⚡ Fun fact: Postgres gets its name from "POST-Ingres" as it was a successor to the Ingres database developed in the 1970s. Despite its age, Postgres has remained one of the most innovative and robust open-source databases around.
+- 🔭 Currently building intelligent search — query expansion, NLP-driven boosting, and interactive Q&A for UK trade classification
+- 🛠️ Day to day I work across the full stack: Rails backends, Elasticsearch, Python ML pipelines, AWS infrastructure (Terraform, ECS, API Gateway), and identity/auth systems
+- 💬 Ask me about Ruby, Rails, Elasticsearch, NixOS, Neovim, or Go
+- ⚡ Fun fact: Postgres gets its name from "POST-Ingres" as it was a successor to the Ingres database developed in the 1970s
 
-### 🌱 Projects
+### Projects
 
-- **Trade Tariff**: An open-source platform crafted with love to help traders navigate the complex world of UK trade <https://github.com/trade-tariff/>
-- **Custom Neovim Config**: Checkout my hand-crafted [neovim configuration](https://github.com/willfish/vimrc)
+- **[Trade Tariff](https://github.com/trade-tariff/)** — Open-source platform helping traders navigate UK trade. I work across the [backend](https://github.com/trade-tariff/trade-tariff-backend), [frontend](https://github.com/trade-tariff/trade-tariff-frontend), [admin](https://github.com/trade-tariff/trade-tariff-admin), [identity](https://github.com/trade-tariff/identity), and [infrastructure](https://github.com/trade-tariff/trade-tariff-platform-aws-terraform)
+- **[smailer](https://github.com/willfish/smailer)** — A Go TUI for reading mail from S3 buckets
+- **[Neovim config](https://github.com/willfish/vimrc)** — Hand-crafted Neovim configuration
+- **[NixOS dotfiles](https://github.com/willfish/dotfiles)** — My NixOS system configuration
+- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** — Package maintainer for [variety](https://github.com/NixOS/nixpkgs/pull/486304)
 
-Languages and Tools:
+### Languages and Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,ruby,py,postgres,aws,docker,go,js,elixir&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ruby,py,go,nix,neovim,postgres,elasticsearch,aws,docker,terraform&perline=5" />
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,javascript,elixir,shell&theme=dracula)](https://github.com/willfish)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,shell&theme=dracula)](https://github.com/willfish)
