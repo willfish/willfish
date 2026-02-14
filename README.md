@@ -2,15 +2,17 @@
 
 ### About Me
 
-Software engineer at HMRC building AI-powered search for the [Online Trade Tariff](https://github.com/trade-tariff/). NixOS user, Neovim enthusiast, and open-source contributor.
+Lead Engineer at HMRC building AI-powered search for the [Online Trade Tariff](https://github.com/trade-tariff/). By night, building **AI agent infrastructure** — verification, trust, and orchestration tools for production AI systems.
 
-- 🔭 Currently building intelligent search — query expansion, NLP-driven boosting, and interactive Q&A for UK trade classification
-- 🛠️ Day to day I work across the full stack: Rails backends, Elasticsearch, Python ML pipelines, AWS infrastructure (Terraform, ECS, API Gateway), and identity/auth systems
-- 💬 Ask me about Ruby, Rails, Elasticsearch, NixOS, Neovim, or Go
+- 🔭 Currently building a **Verification API** for AI agents — chain-of-verification for high-stakes domains (starting with legal)
+- 🛠️ Full stack: Rails, Elasticsearch, Python ML, AWS (Terraform, ECS), and AI agent orchestration
+- 🧠 Exploring: multi-model verification, agent sandboxing, cost-optimised model routing
+- 💬 Ask me about Ruby, Rails, AI agent infrastructure, Elasticsearch, NixOS, or Neovim
 - ⚡ Fun fact: Postgres gets its name from "POST-Ingres" as it was a successor to the Ingres database developed in the 1970s
 
 ### Projects
 
+- **[ventures](https://github.com/willfish/ventures)** — Research & build pipeline for AI agent infrastructure products
 - **[Trade Tariff](https://github.com/trade-tariff/)** — Open-source platform helping traders navigate UK trade. I work across the [backend](https://github.com/trade-tariff/trade-tariff-backend), [frontend](https://github.com/trade-tariff/trade-tariff-frontend), [admin](https://github.com/trade-tariff/trade-tariff-admin), [identity](https://github.com/trade-tariff/identity), and [infrastructure](https://github.com/trade-tariff/trade-tariff-platform-aws-terraform)
 - **[smailer](https://github.com/willfish/smailer)** — A Go TUI for reading mail from S3 buckets
 - **[Neovim config](https://github.com/willfish/vimrc)** — Hand-crafted Neovim configuration
