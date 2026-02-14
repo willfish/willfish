@@ -4,7 +4,7 @@
 
 Lead Engineer at HMRC building AI-powered search for the [Online Trade Tariff](https://github.com/trade-tariff/). By night, building **AI agent infrastructure** — verification, trust, and orchestration tools for production AI systems.
 
-- 🔭 Currently building a **Verification API** for AI agents — chain-of-verification for high-stakes domains (starting with legal)
+- 🔭 Currently building a **Verification API** for AI agents — chain-of-verification for high-stakes domains
 - 🛠️ Full stack: Rails, Elasticsearch, Python ML, AWS (Terraform, ECS), and AI agent orchestration
 - 🧠 Exploring: multi-model verification, agent sandboxing, cost-optimised model routing
 - 💬 Ask me about Ruby, Rails, AI agent infrastructure, Elasticsearch, NixOS, or Neovim
