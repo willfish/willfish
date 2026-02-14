@@ -12,7 +12,6 @@ Lead Engineer at HMRC building AI-powered search for the [Online Trade Tariff](h
 
 ### Projects
 
-- **[ventures](https://github.com/willfish/ventures)** — Research & build pipeline for AI agent infrastructure products
 - **[Trade Tariff](https://github.com/trade-tariff/)** — Open-source platform helping traders navigate UK trade. I work across the [backend](https://github.com/trade-tariff/trade-tariff-backend), [frontend](https://github.com/trade-tariff/trade-tariff-frontend), [admin](https://github.com/trade-tariff/trade-tariff-admin), [identity](https://github.com/trade-tariff/identity), and [infrastructure](https://github.com/trade-tariff/trade-tariff-platform-aws-terraform)
 - **[smailer](https://github.com/willfish/smailer)** — A Go TUI for reading mail from S3 buckets
 - **[Neovim config](https://github.com/willfish/vimrc)** — Hand-crafted Neovim configuration
