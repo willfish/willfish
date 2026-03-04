@@ -25,5 +25,3 @@ Lead Engineer at HMRC building AI-powered search for the [Online Trade Tariff](h
     <img src="https://skillicons.dev/icons?i=ruby,py,go,nix,neovim,postgres,elasticsearch,aws,docker,terraform&perline=5" />
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfish&hide=css,html,coffeescript,shell&theme=dracula)](https://github.com/willfish)
